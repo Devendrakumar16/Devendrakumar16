@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
+<h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate iOS Developer from India</h3>
 
 <p align="center">
