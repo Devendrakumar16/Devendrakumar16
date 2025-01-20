@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
-<h3 align="center">A passionate IOS developer from India</h3>
+<h3 align="center">A passionate iOS developer</h3>
 
 - 🌱 I’m currently learning **SwiftUi**
 
