@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **devendra.july.2001@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact ** Tomato is a fruit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
